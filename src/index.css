@@ -1,0 +1,126 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 40%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("https://i.pinimg.com/originals/75/67/04/7567047351b6b8c1af62cd3312926b5c.jpg");
+}
+.hello{
+  background-color: rgb(28, 11, 11);
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.na{
+  background-color: cadetblue;
+  color: blue;
+}
+.wa{
+  position: relative;
+    top: 390px;
+}
+.tokenlogo{
+  color: aliceblue;
+  padding-right: 10px;
+    border-top-width: 30px;
+    position: relative;
+    width: 25px;
+   height: 40px;
+    top: 10px;
+
+}
+.container{
+  width: 28%;
+    /* height: .900; */
+    height: 800px;
+    box-sizing: border-box;
+    border-image: round;
+    position: relative;
+    /* margin: 28px; */
+    background-color: rgb(38, 41, 41);
+    display: inline-block;
+    /* border-radius: 47px; */
+    border-radius: 0 45px 0 0;
+    border: 1px solid rgba(40, 28, 28, 0.995);
+  /* background-image: url("https://cdn.dribbble.com/users/1693297/screenshots/7838391/media/1452db6b79b16a06cf4a8c6df838f2c3.jpg?compress=1&resize=600x450"); */
+}
+.logo{
+  width: 50px;
+    height: 30px;
+    padding-top: 50px;
+    margin-left: 40px;
+  color: azure;}
+h2{
+  position: relative;
+    left: 120px;
+    bottom: 55px;
+    top: auto;
+    color: white;
+}
+.ta{
+  width: 340px;
+    height: 66px;
+}
+.taa{
+    margin-bottom: 20px;
+    height: 100px;
+    /* height: 100px; */
+}
+.ta{
+  position: relative;
+  width: 200px;
+    height: 50px;
+    color: white;
+    font-size: 20px;
+    background-color: rgb(38, 41, 41);
+}
+.pair_a{
+  position: relative;
+}
+.side{
+  height: 100px;
+}
+.form-control{
+  background-image: url("C:\Users\91834\Downloads\Rectangle 9392.png");
+  width: 400px;
+    height: 56px;
+    margin-left: 200px;
+    position: relative;
+    bottom: 800px;
+    left: 260px;
+    border-radius: 20px;
+    border: 1px solid white;
+}
+.logo_body{
+  position: relative;
+    bottom: 640px;
+    left: 264px;
+    width: 44px;
+    height: 44px;
+    padding-top: 50px;
+    margin-left: 28px;
+    bottom: 780px;
+}
+.connect{
+  margin-left: 200px;
+    position: relative;
+    bottom: 840px;
+    left: 260px;
+    border-radius: 20px;
+    border: 1px solid white;
+    left: 900px;
+    height: 28.333334px;
+}
+.text{
+  margin-left: 200px;
+    position: relative;
+    bottom: 600px;
+    left: 260px;
+    
+}
